@@ -3,7 +3,7 @@ This project aims to implement and compare three reinforcement learning algorith
 
 Q-Learning           |  SARSA       |   Monte Carlo
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/Taxi-Q.gif" />|<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/Taxi-SARSA.gif" />|<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/Taxi-MC.gif" />
+<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/Taxi_Q.gif" />|<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/Taxi_SARSA.gif" />|<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/Taxi_MC.gif" />
 
 The implementation of Q-Learning, SARSA, and Monte Carlo algorithms is in the Q_Agent.py, SARSA_Agent.py, and MonteCarlo_Agent.py files, respectively. The comparison of the effect of changing the parameters in Taxi_QAgent.ipynb, Taxi_SARSA.ipynb, and Taxi_MCAgent.ipynb and Comparison of three algorithms in Taxi_CompareAgents.ipynb file.
 
