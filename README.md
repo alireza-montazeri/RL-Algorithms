@@ -21,14 +21,12 @@ Learning Rate           |  Discount Factor
 <img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/SARSA-alpha-steps.png" />|<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/SARSA-gamma-steps.png" />
 
 ### Affect of Changing Monte Carlo parameters
-Discount Factor |
-:-------------------------:
-<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/MC-gamma-reward.png" />
-<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/MC-gamma-steps.png" />
+Reward | Steps
+:-------------------------:|:-------------------------:
+<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/MC-gamma-reward.png" />|<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/MC-gamma-steps.png" />
 
 ### Compare Q-Learning, SARSA, Monte Carlo
-Comparison |
-:-------------------------:
-<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/All-reward.png" />
-<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/All-steps.png" />
+Reward | Steps
+:-------------------------:|:-------------------------:
+<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/All-reward.png" /> |<img src="https://github.com/alireza-montazeri/RL-Algorithms/blob/master/figures/All-steps.png" />
 
